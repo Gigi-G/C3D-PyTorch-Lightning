@@ -97,7 +97,7 @@ python train.py --wandb_log
 ```
 
 
-# Test
+## Test
 To test the model, run:
 
 ```bash
